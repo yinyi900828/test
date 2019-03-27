@@ -1,0 +1,14 @@
+{
+    "name": "yinyi900828/test",
+    "description": "just for test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yinyi900828",
+            "email": "404719656@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
